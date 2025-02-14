@@ -147,3 +147,17 @@ a{
 .prodect_card_wrapper{
 width: 100%;
 }
+.prodect_card_wrapper .headr{
+    text-align: center;
+    width: 100%;
+    
+}
+.headr h2{
+    font-size: 5rem;
+}
+.headr p{
+    font-size: 2rem;
+}
+.headr a{
+    margin-re: 1rem;
+}
